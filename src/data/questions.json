@@ -1,0 +1,924 @@
+{
+  "day1": [
+    {
+      "id": "q1",
+      "question": "For how many consecutive years has Alembic been certified as a Great Place to Work®?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 years"
+        },
+        {
+          "id": "B",
+          "text": "3 years"
+        },
+        {
+          "id": "C",
+          "text": "4 years"
+        },
+        {
+          "id": "D",
+          "text": "5 years"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q2",
+      "question": "What is the name of the magazine published by Alembic that reached approximately 3,500 urologists pan-India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Urology Chronicle"
+        },
+        {
+          "id": "B",
+          "text": "LIFE Uninterrupted"
+        },
+        {
+          "id": "C",
+          "text": "Health First"
+        },
+        {
+          "id": "D",
+          "text": "Alembic Insight"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q3",
+      "question": "What is the new pipeline brand announced under the Zenovi Division and its combination?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reluher; Relugolix (30mg) + Estradiol (2mg) + Norethindrone Acetate (0.5mg)"
+        },
+        {
+          "id": "B",
+          "text": "Relugix; Relugolix (40mg) + Estradiol (1mg) + Norethindrone Acetate (1mg)"
+        },
+        {
+          "id": "C",
+          "text": "Reluher; Relugolix (40mg) + Estradiol (1mg) + Norethindrone Acetate (0.5mg)"
+        },
+        {
+          "id": "D",
+          "text": "Reluher; Relugolix (50mg) + Estradiol (1mg) + Norethindrone Acetate (0.5mg)"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q4",
+      "question": "What was the theme of Alembic's International Women's Day campaign mentioned in the magazine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "#BreakTheBias"
+        },
+        {
+          "id": "B",
+          "text": "#WomenEmpower"
+        },
+        {
+          "id": "C",
+          "text": "#GiveToGain"
+        },
+        {
+          "id": "D",
+          "text": "#EqualityForAll"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q5",
+      "question": "How many patients were educated on 'Home Blood Pressure Management' to enter the Asia Book of Records?",
+      "options": [
+        {
+          "id": "A",
+          "text": "27,000 patients"
+        },
+        {
+          "id": "B",
+          "text": "37,000 patients"
+        },
+        {
+          "id": "C",
+          "text": "47,000 patients"
+        },
+        {
+          "id": "D",
+          "text": "57,000 patients"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q6",
+      "question": "What was the total symptom score improvement percentage observed in the CLOFFER Study within 5 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": ">53%"
+        },
+        {
+          "id": "B",
+          "text": ">63%"
+        },
+        {
+          "id": "C",
+          "text": ">73%"
+        },
+        {
+          "id": "D",
+          "text": ">83%"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    }
+  ],
+  "day2": [
+    {
+      "id": "q7",
+      "question": "Which division celebrated a 14+ year legacy and crossed the 150-crore milestone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Corazon Division"
+        },
+        {
+          "id": "B",
+          "text": "Zenovi Division"
+        },
+        {
+          "id": "C",
+          "text": "Megacare Division"
+        },
+        {
+          "id": "D",
+          "text": "Specia Division"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q8",
+      "question": "The CURE URTI Study evaluated Azithromycin in pediatric patients across how many sites in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 sites"
+        },
+        {
+          "id": "B",
+          "text": "22 sites"
+        },
+        {
+          "id": "C",
+          "text": "32 sites"
+        },
+        {
+          "id": "D",
+          "text": "42 sites"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q9",
+      "question": "What is the exact title of the Senior Leadership Workshop facilitated by Mr. Ritesh Verma?",
+      "options": [
+        {
+          "id": "A",
+          "text": "From Vision to Execution: High-Trust Teams"
+        },
+        {
+          "id": "B",
+          "text": "From Alignment to Accountability: Building High-Trust Leadership Teams"
+        },
+        {
+          "id": "C",
+          "text": "Accountability and Alignment in Modern Leadership"
+        },
+        {
+          "id": "D",
+          "text": "Building Trust and Team Synergy for Growth"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q10",
+      "question": "What is the name of the AI-powered simulation-based training platform introduced by Alembic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "SimuLearnAI"
+        },
+        {
+          "id": "B",
+          "text": "RepCoachAI"
+        },
+        {
+          "id": "C",
+          "text": "RepReadyAI"
+        },
+        {
+          "id": "D",
+          "text": "FieldReadyAI"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q11",
+      "question": "Which division was awarded the No.1 position in the CV cluster for FY'25-26?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Specia Division"
+        },
+        {
+          "id": "B",
+          "text": "Cardigem Division"
+        },
+        {
+          "id": "C",
+          "text": "Zenovi Division"
+        },
+        {
+          "id": "D",
+          "text": "Corazon Division"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q12",
+      "question": "How many Overactive Bladder (OAB) screening camps were conducted in just the first week of April?",
+      "options": [
+        {
+          "id": "A",
+          "text": "~220 camps"
+        },
+        {
+          "id": "B",
+          "text": "~320 camps"
+        },
+        {
+          "id": "C",
+          "text": "~420 camps"
+        },
+        {
+          "id": "D",
+          "text": "~520 camps"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    }
+  ],
+  "day3": [
+    {
+      "id": "q13",
+      "question": "Which brand became the No.1 Azithromycin liquid brand in Nepal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Azee Liquid"
+        },
+        {
+          "id": "B",
+          "text": "Zithromax Liquid"
+        },
+        {
+          "id": "C",
+          "text": "Azifast Liquid"
+        },
+        {
+          "id": "D",
+          "text": "Azithral Liquid"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q14",
+      "question": "What is the name of the proprietary in-house front desk portal designed by the Admin team?",
+      "options": [
+        {
+          "id": "A",
+          "text": "VisIT"
+        },
+        {
+          "id": "B",
+          "text": "SmartDesk"
+        },
+        {
+          "id": "C",
+          "text": "FrontIQ"
+        },
+        {
+          "id": "D",
+          "text": "VisIQ"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q15",
+      "question": "What were the order fill rate and portfolio availability achieved by ModernX against purchase orders?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90% order fill rate; 85% portfolio availability"
+        },
+        {
+          "id": "B",
+          "text": "95% order fill rate; 80% portfolio availability"
+        },
+        {
+          "id": "C",
+          "text": "95% order fill rate; 90% portfolio availability"
+        },
+        {
+          "id": "D",
+          "text": "85% order fill rate; 90% portfolio availability"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q16",
+      "question": "What was the theme for World Hypertension Day 2026 mentioned in the magazine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "'Measure Your Pressure'"
+        },
+        {
+          "id": "B",
+          "text": "'Know Your Numbers'"
+        },
+        {
+          "id": "C",
+          "text": "'Volume Matters'"
+        },
+        {
+          "id": "D",
+          "text": "'Heart Health First'"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q17",
+      "question": "The CLOFFER Study evaluated Clarithromycin for Acute Rhinosinusitis across how many centers in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "77 centers"
+        },
+        {
+          "id": "B",
+          "text": "87 centers"
+        },
+        {
+          "id": "C",
+          "text": "97 centers"
+        },
+        {
+          "id": "D",
+          "text": "67 centers"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q18",
+      "question": "What were the three primary growth engines for the Zenovi Division's 102.4 crore revenue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cetanil, Azithral, and Ulgel"
+        },
+        {
+          "id": "B",
+          "text": "Gestofit SR, Richar FCM, and Estroplus"
+        },
+        {
+          "id": "C",
+          "text": "Gestofit SR, Cetanil, and Richar FCM"
+        },
+        {
+          "id": "D",
+          "text": "Richar FCM, Estroplus, and Grogain Pro"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    }
+  ],
+  "day4": [
+    {
+      "id": "q19",
+      "question": "Which division hosted the 'X-celebrate' workshops with Tata Img and PharmEasy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Megacare"
+        },
+        {
+          "id": "B",
+          "text": "Enteron"
+        },
+        {
+          "id": "C",
+          "text": "Osteofit"
+        },
+        {
+          "id": "D",
+          "text": "ModernX"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q20",
+      "question": "What was the total revenue milestone achieved by the Zenovi Division in FY25-26?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100.4 crores"
+        },
+        {
+          "id": "B",
+          "text": "102.4 crores"
+        },
+        {
+          "id": "C",
+          "text": "110.4 crores"
+        },
+        {
+          "id": "D",
+          "text": "92.4 crores"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q21",
+      "question": "What gamified activity did the Gastron Division use for Q1 FY'26 medico-marketing strategy training?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bull in the Ring activity"
+        },
+        {
+          "id": "B",
+          "text": "Safety Treasure Hunt"
+        },
+        {
+          "id": "C",
+          "text": "Medico-Marketing Quiz via Kahoot!"
+        },
+        {
+          "id": "D",
+          "text": "Role-play simulations via RepReadyAI"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q22",
+      "question": "What is the name of the talent show that united four divisions on one stage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alembic Superstar"
+        },
+        {
+          "id": "B",
+          "text": "Alembic Got Talent (AGT)"
+        },
+        {
+          "id": "C",
+          "text": "One Alembic Show"
+        },
+        {
+          "id": "D",
+          "text": "Alembic's Got Skills"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q23",
+      "question": "What position did Grogain Pro secure as the \"Best Launch of the Year\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1st Best Launch"
+        },
+        {
+          "id": "B",
+          "text": "2nd Best Launch"
+        },
+        {
+          "id": "C",
+          "text": "3rd Best Launch"
+        },
+        {
+          "id": "D",
+          "text": "4th Best Launch"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q24",
+      "question": "What was the exact reach and result of the Home Blood Pressure Management screening initiative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1,750 doctors; 1,104 camps; 5,847 prescriptions"
+        },
+        {
+          "id": "B",
+          "text": "1,850 doctors; 904 camps; 6,947 prescriptions"
+        },
+        {
+          "id": "C",
+          "text": "1,850 doctors; 1,004 camps; 5,947 prescriptions"
+        },
+        {
+          "id": "D",
+          "text": "1,950 doctors; 1,004 camps; 5,947 prescriptions"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    }
+  ],
+  "day5": [
+    {
+      "id": "q25",
+      "question": "Which plant received a letter of appreciation from the Community Health Centre (Govt. of Sikkim) for CSR activities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pithampur Plant"
+        },
+        {
+          "id": "B",
+          "text": "Vadodara Plant"
+        },
+        {
+          "id": "C",
+          "text": "Baddi Plant"
+        },
+        {
+          "id": "D",
+          "text": "Sikkim Plant"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q26",
+      "question": "How many participants joined the 55th National Safety Day celebrations across the EHS Department?",
+      "options": [
+        {
+          "id": "A",
+          "text": "More than 1,000 participants"
+        },
+        {
+          "id": "B",
+          "text": "More than 2,000 participants"
+        },
+        {
+          "id": "C",
+          "text": "More than 3,000 participants"
+        },
+        {
+          "id": "D",
+          "text": "More than 2,500 participants"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q27",
+      "question": "What was the compliance rate observed in the CURE URTI Study for Azithral Liquid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 out of 5 children reported high palatability; 94% compliance"
+        },
+        {
+          "id": "B",
+          "text": "4 out of 5 children reported high palatability; 94% compliance"
+        },
+        {
+          "id": "C",
+          "text": "4 out of 5 children reported high palatability; 84% compliance"
+        },
+        {
+          "id": "D",
+          "text": "5 out of 5 children reported high palatability; 94% compliance"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q28",
+      "question": "What is the name of the Megacare monthly webinar initiative that engaged 438 delegates per session?",
+      "options": [
+        {
+          "id": "A",
+          "text": "PediaSphere (Pharma)"
+        },
+        {
+          "id": "B",
+          "text": "Pedia Talk"
+        },
+        {
+          "id": "C",
+          "text": "Maxis PedQuest"
+        },
+        {
+          "id": "D",
+          "text": "PediaFlow (Megacare)"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q29",
+      "question": "What was the total turnover delivered by ModernX in FY26?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60.67 crore (Net PTS)"
+        },
+        {
+          "id": "B",
+          "text": "73.67 crore (Net PTS)"
+        },
+        {
+          "id": "C",
+          "text": "53.67 crore (Net PTS)"
+        },
+        {
+          "id": "D",
+          "text": "63.67 crore (Net PTS)"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q30",
+      "question": "What percentage of market share did Azithral Liquid capture in Nepal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Approximately 15%"
+        },
+        {
+          "id": "B",
+          "text": "Approximately 20%"
+        },
+        {
+          "id": "C",
+          "text": "Approximately 25%"
+        },
+        {
+          "id": "D",
+          "text": "Approximately 30%"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    }
+  ],
+  "superOver": [
+    {
+      "id": "q31",
+      "question": "What was the name of the four-month cultural alignment initiative for 450+ Head Office employees?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cultural Connect Program"
+        },
+        {
+          "id": "B",
+          "text": "Culture Catalyst sessions"
+        },
+        {
+          "id": "C",
+          "text": "One Alembic Initiative"
+        },
+        {
+          "id": "D",
+          "text": "HR Catalyst Workshops"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q32",
+      "question": "What was the total number of patients screened through the 1,949 Wikoryl Cold and Cough camps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3,862 patients"
+        },
+        {
+          "id": "B",
+          "text": "4,862 patients"
+        },
+        {
+          "id": "C",
+          "text": "5,862 patients"
+        },
+        {
+          "id": "D",
+          "text": "4,562 patients"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    },
+    {
+      "id": "q33",
+      "question": "Dr. Ritesh Verma received two prestigious awards. Which of the following is the correct pair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Learning Leader 2026 AND Best HR Leader Award"
+        },
+        {
+          "id": "B",
+          "text": "Most Influential L&D Leader (World HRD Congress) AND Learning Leader 2026 (14th L&D Awards)"
+        },
+        {
+          "id": "C",
+          "text": "Most Influential L&D Leader AND ISTD Diploma Holder"
+        },
+        {
+          "id": "D",
+          "text": "World HRD Congress Award AND Best Trainer Award"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "Hard",
+      "runs": 6,
+      "timeLimit": 15
+    },
+    {
+      "id": "q34",
+      "question": "What was the average number of prescriptions generated per camp in the BP screening initiative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "~4 prescriptions per camp"
+        },
+        {
+          "id": "B",
+          "text": "~8 prescriptions per camp"
+        },
+        {
+          "id": "C",
+          "text": "~10 prescriptions per camp"
+        },
+        {
+          "id": "D",
+          "text": "~6 prescriptions per camp"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "Easy",
+      "runs": 1,
+      "timeLimit": 15
+    },
+    {
+      "id": "q35",
+      "question": "Which three divisions launched the acute cluster collaborative initiative on URTI, APD, and OAD management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Megacare, Enteron, and Maxis"
+        },
+        {
+          "id": "B",
+          "text": "Pharma, Osteofit, and Cardigem"
+        },
+        {
+          "id": "C",
+          "text": "Megacare, Enteron, and Pharma"
+        },
+        {
+          "id": "D",
+          "text": "Maxis, Specia, and Zenovi"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "Medium",
+      "runs": 4,
+      "timeLimit": 15
+    }
+  ]
+}

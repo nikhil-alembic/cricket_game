@@ -78,11 +78,12 @@ export default function Login() {
         {/* Login card */}
         <div className="w-full max-w-xs rounded-3xl border border-white/30 bg-white/10 p-6 shadow-2xl backdrop-blur-md sm:max-w-sm sm:p-8">
           <h1 className="mb-6 text-center text-xl font-bold text-white sm:text-2xl">
-            Registor User
+            Registor Employee
           </h1>
 
           <form onSubmit={handleSubmit} noValidate className="space-y-4">
             <div>
+              s
               <input
                 id="employeeId"
                 type="text"

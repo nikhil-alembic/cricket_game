@@ -50,7 +50,6 @@ export default function HomePage() {
   const [questionModal, setQuestionModal] = useState(false);
   const [quizRes, setQuizRes] = useState([]);
   const navigate = useNavigate();
-  const [activeScore, setActiveScore] = useState(0);
 
   useEffect(() => {
     if (!started) return;

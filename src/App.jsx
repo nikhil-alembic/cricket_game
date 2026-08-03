@@ -8,19 +8,21 @@ import { BrowserRouter, Routes, Route } from "react-router";
 
 import { Navigate } from "react-router";
 
+
 function ProtectedRoute({ children }) {
+  let user = null;
+
   try {
-    const user = JSON.parse(localStorage.getItem("user"));
-
-    if (!user || !user.emp_code) {
-      return <Navigate to="/login" replace />;
-    }
-
-    return children;
+    user = JSON.parse(localStorage.getItem("user"));
   } catch {
     localStorage.removeItem("user");
+  }
+
+  if (!user || !user.emp_code) {
     return <Navigate to="/login" replace />;
   }
+
+  return children;
 }
 
 function App() {

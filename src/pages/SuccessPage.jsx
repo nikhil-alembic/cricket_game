@@ -55,7 +55,7 @@ export default function SuccessPage() {
   
     useEffect(() => {
       handleTodayScore();
-    }, []);
+    });
 
   return (
     <main className="relative flex min-h-dvh w-full flex-col overflow-hidden bg-black">

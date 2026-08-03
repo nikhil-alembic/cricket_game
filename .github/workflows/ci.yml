@@ -24,8 +24,8 @@ jobs:
           - name : Install dependencies
             run : npm ci
 
-          # - name : Run Eslint
-          #   run : npm run lint
+          - name : Run Eslint
+            run : npm run lint
 
           - name : Build Project
             run : npm run build

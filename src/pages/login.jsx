@@ -83,7 +83,6 @@ export default function Login() {
 
           <form onSubmit={handleSubmit} noValidate className="space-y-4">
             <div>
-              s
               <input
                 id="employeeId"
                 type="text"
